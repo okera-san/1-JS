@@ -6,4 +6,4 @@ for (let a = 0; a < numeros.length; a++){ //Inicia el bucle for
 
     }
     console.log(numeros[a]);
-} //imprime los numeros
+} //imprime los numeros del 1 al 11
